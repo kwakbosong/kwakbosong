@@ -1194,7 +1194,10 @@ section,
   transform: scale(1.1);
 }
 
-.u
+.portfolio-content video {
+  margin-bottom: 20px;
+  /* 영상 아래에 20px 여백 추가 */
+}
 
 /*--------------------------------------------------------------
 # Pricing Section
