@@ -163,7 +163,7 @@ h6 {
 }
 
 .header .logo h1 {
-  font-size: 30px;
+  font-size: 30px;f
   margin: 0;
   font-weight: 700;
   color: var(--heading-color);
@@ -1195,7 +1195,7 @@ section,
 }
 
 .portfolio-content video {
-  margin-bottom: 5px;
+  margin-bottom: 3px;
   /* 영상 아래에 5px 여백 추가 */
 }
 
